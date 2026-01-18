@@ -23,7 +23,7 @@ Ping and traceroute ip's using BW16 (RTL8720DN)
 
 # Install
 1. Download or Clone the Repository.
-2. Open the folder and open `BW16-Ping.ino` in Arduino IDE.
+2. Open the folder and open `ping_traceroute_bw16.ino` in Arduino IDE.
 3. Enter you data in: "WiFi.begin("u_ssid", "u_pass")"
 4. Select board from the `Tools` → `Board` → `AmebaD ARM (32-bits) Boards`.
    - It is `Ai-Thinker BW16 (RTL8720DN)`.
